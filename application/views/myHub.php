@@ -6,7 +6,7 @@
 	<title>My Github</title>
 </head>
 <body>
-	<div class="yes">
+	<div>
 	<h1>Hello</h1>
 	<p>My first github</p>
 	</div>
